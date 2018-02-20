@@ -11,7 +11,7 @@ def duck_noise
   puts "quack"
 end
 
-Task 2: Same as task one, but switch roles
+# Task 2: Same as task one, but switch roles
 def truck_noise
   puts "honk"
 end
@@ -21,9 +21,9 @@ end
 # partner should uncomment the other. Git will merge the two
 # sets of changes together.
 
-# def robot_noise
-#   puts "beep boop"
-# end
+def robot_noise
+  puts "beep boop"
+end
 
 # def train_noise
 #   puts "choo choo"
